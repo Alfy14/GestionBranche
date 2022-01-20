@@ -1,1 +1,6 @@
-Hello world!
+<<<<<<< HEAD
+Hello world.
+=======
+Hello world.
+
+>>>>>>> bugfix
